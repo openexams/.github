@@ -1,2 +1,1 @@
-# Quackprep.com
-Creating unique solutions to solve the problem of "studying".
+settings for quackprep I think
